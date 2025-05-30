@@ -2,9 +2,11 @@
 
 Este proyecto consiste en un **dashboard interactivo desarrollado en Excel** para visualizar y analizar el rendimiento comercial de una empresa bajo el concepto de *Smart Office*. Está diseñado para brindar insights claros y accionables a partir de datos de ventas, permitiendo una toma de decisiones rápida y efectiva.
 
+
 🎯 Objetivo
 
 Desarrollar una herramienta visual que mejore el **monitoreo de ventas**, integrando métricas clave y filtros dinámicos para distintas variables del negocio.
+
 
 🧩 Características principales
 
@@ -14,6 +16,7 @@ Desarrollar una herramienta visual que mejore el **monitoreo de ventas**, integr
 - ⭐ Identificación de **proveedores destacados** según desempeño.
 - 📊 Diseño limpio y funcional, enfocado en usabilidad y claridad visual.
 
+
 🛠️ Herramientas utilizadas
 
 - **Microsoft Excel**
@@ -22,12 +25,14 @@ Desarrollar una herramienta visual que mejore el **monitoreo de ventas**, integr
   - Fórmulas avanzadas
   - Diseño de dashboards
 
+
 🚀 Resultado
 
 Una solución accesible y efectiva que permite a los usuarios de oficina inteligente:
 - Detectar patrones de compra.
 - Evaluar desempeño por región.
 - Agilizar decisiones operativas y estratégicas.
+
 
 👨‍💻 Autor
 
