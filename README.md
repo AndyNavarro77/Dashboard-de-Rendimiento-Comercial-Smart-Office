@@ -40,4 +40,4 @@ Una solución accesible y efectiva que permite a los usuarios de oficina intelig
 
 📧 andresnavarroalvarez15@gmail.com
 🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andres-navarro77)
+🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
