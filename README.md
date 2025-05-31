@@ -39,5 +39,5 @@ Una solución accesible y efectiva que permite a los usuarios de oficina intelig
 **Andrés Navarro**  
 
 📧 andresnavarroalvarez15@gmail.com
-🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app)  
+🌐 [Portafolio Web](https://andres-navarro-portafolio.netlify.app)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
