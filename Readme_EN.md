@@ -30,3 +30,9 @@ Develop a visual tool to enhance sales monitoring by integrating key metrics and
 - Streamline operational and strategic decisions
 
 👨‍💻 Contact
+
+**Andrés Navarro**  
+
+📧 andresnavarroalvarez15@gmail.com
+🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
